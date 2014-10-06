@@ -1,4 +1,4 @@
-(defproject listora/ring-nuclear "0.1.0-SNAPSHOT"
+(defproject listora/ring-nuclear "0.1.0"
   :description "Ring middleware that constantly throws"
   :url "https://github.com/listora/ring-nuclear"
   :license {:name "The MIT License"
